@@ -34,8 +34,7 @@ The code is limited to files that are in DICOM form.
 
 ## Author Information
 Adrianna Con
-acon@uoguelph.ca
-Student ID: 1079858
+adriannacon@gmail.com
 
 ## References
 - https://www.saravanansubramanian.com/blogmakingsenseofdicomfile/ 
