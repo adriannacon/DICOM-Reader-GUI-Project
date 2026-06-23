@@ -1,4 +1,4 @@
-# OOP Project: DICOM!
+# OOP Project: DICOM File GUI
 The purpose of this code is to input and process medical images in the form of DICOM files (.dcm files) and extract the patient and image data. The program will then use a graphical user interface (GUI) to facilitate user interaction with the information collected.  
 
 ## Description
